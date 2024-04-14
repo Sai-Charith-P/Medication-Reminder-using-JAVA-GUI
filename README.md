@@ -36,7 +36,7 @@ After the completion of Reminder there are no Active Reminders:</br>
 Failed Login Page to check the Authentication:</br>
 ![Screenshot 2023-11-06 140930](https://github.com/Sai-Charith-P/Medication-Reminder-using-JAVA-GUI/assets/128963562/e4d5bbd2-48ec-4809-8408-4aad65a84d7d)</br>
 
-This is definitely not the best solution the the problem but an approach to solve it
+This is definitely not the best solution to the problem but an approach to solve it
 
 
 
