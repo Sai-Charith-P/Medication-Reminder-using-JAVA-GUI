@@ -11,7 +11,7 @@ Requirements:</br>
 3.Replace "Your_Password" in the files with "your actual password" which you can set it when you install Oracle 10g</br>
 
 Steps:</br>
-1.You need to JDBC_Conn.java file as it creates a table named users in oracle</br>
+1.You need to run the JDBC_Conn.java file as it creates a table named users in oracle</br>
 2.Now run the JDBC_Medical.java</br>
 3.Then finally run UserRegistrationLogin2.java</br>
 New users can register and existing users can login</br>
